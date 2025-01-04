@@ -5,8 +5,10 @@ sudo apt update
 ```console
 sudo apt install python3 python3-pip
 ```
-**To create env use **
+**To create env use**
+```python
 python3 -m venv venv
+```
 **Activate it**
 ```python
 source venv/bin/activate
